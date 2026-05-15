@@ -1,5 +1,6 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+* Your name: Phí Lê Bảo Linh
+* Your student ID: 2410532
+
